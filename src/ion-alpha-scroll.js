@@ -52,6 +52,7 @@ angular.module('ion-alpha-scroll', [])
             initialTap = e.pageX;
             var letter = document.elementFromPoint(initialTap, e.pageY).innerText;
             scope.draggingLetter = letter;
+            scope.$apply();
             e.preventDefault();
           };
 
