@@ -17,7 +17,7 @@ ion-alpha-scroll
 
 # Demo
 
-![Animated demo](https://github.com/clnhll/ion-alpha-scroll/raw/master/demo.gif)
+![Animated demo](https://github.com/clnhll/ion-alpha-scroll/raw/master/demo.gif =250x)
 
 # Installation
 
