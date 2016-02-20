@@ -4,6 +4,7 @@ ion-alpha-scroll
  - Dragging enabled
  - Updates when ng-model changes
  - Aesthetic improvements 
+ - Only shows letters in sidebar that have corresponding values in key list
 
 > Configurable Ionic directive for alphabetically indexed list with an alpha scroll bar.
 
