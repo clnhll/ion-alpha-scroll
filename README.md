@@ -17,7 +17,8 @@ ion-alpha-scroll
 - [License](#license)
 
 # Demo
-!!! this will only work on an actual device due to use of touch events !!!
+!!! this will only work on an actual device due to use of touch events !!!  
+
 <img src="https://github.com/clnhll/ion-alpha-scroll/raw/master/demo.gif" width="250" />
 
 # Installation
