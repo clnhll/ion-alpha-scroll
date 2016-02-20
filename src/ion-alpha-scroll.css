@@ -6,10 +6,19 @@
 }
 .ion_alpha_sidebar{
 	position: fixed;
-	right: 0;
-	top: 0;
-	height: 100%;
+	right: 5px;
+	top: calc(50%);
+	transform: translateY(-50%);
+	opacity: .5
 }
 .ion_alpha_sidebar li{
 	line-height: 1.1;
+	text-align: center;
+	display: block;
+	width: 3ch;
+}
+.ion_alpha_sidebar .selected {
+	background: rgba(0,0,0,.5);
+	border-radius: 8px;
+	color: white;
 }
