@@ -6,14 +6,15 @@ ion-alpha-scroll
  - Aesthetic improvements 
  - Only shows letters in sidebar that have corresponding values in key list
  - to install this fork do run `bower install https://github.com/clnhll/ion-alpha-scroll.git` in terminal, and add the following to overrides in your bower.json:
-```  "overrides": {
-    "ion-alpha-scroll": {
-      "main": [
-        "src/ion-alpha-scroll.css",
-        "src/ion-alpha-scroll.js"
-      ]
-    },
-```
+
+	"overrides": {
+		"ion-alpha-scroll": {
+      			"main": [
+        			"src/ion-alpha-scroll.css",
+        			"src/ion-alpha-scroll.js"
+      			]
+    		},
+
 
 > Configurable Ionic directive for alphabetically indexed list with an alpha scroll bar.
 
