@@ -7,7 +7,7 @@ ion-alpha-scroll
  - Updates when ng-model changes
  - Aesthetic improvements 
  - Only shows letters in sidebar that have corresponding values in key list
- - to install this fork do run `bower install https://github.com/clnhll/ion-alpha-scroll.git` in terminal, and add the following to overrides in your bower.json:
+ - to install this fork run `bower install https://github.com/clnhll/ion-alpha-scroll.git` in terminal, and add the following to overrides in your bower.json:
 
 		"overrides": {
 			"ion-alpha-scroll": {
