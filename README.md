@@ -1,5 +1,7 @@
 ion-alpha-scroll
 ================
+> Configurable Ionic directive for alphabetically indexed list with an alpha scroll bar.
+
 #Updated with new features
  - Dragging enabled
  - Updates when ng-model changes
@@ -16,7 +18,6 @@ ion-alpha-scroll
     			},
 
 
-> Configurable Ionic directive for alphabetically indexed list with an alpha scroll bar.
 
 #Table of contents
 
